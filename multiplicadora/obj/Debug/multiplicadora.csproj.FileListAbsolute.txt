@@ -1,0 +1,7 @@
+C:\Users\David S\Desktop\multiplicadora\bin\Debug\multiplicadora.exe.config
+C:\Users\David S\Desktop\multiplicadora\bin\Debug\multiplicadora.exe
+C:\Users\David S\Desktop\multiplicadora\bin\Debug\multiplicadora.pdb
+C:\Users\David S\Desktop\multiplicadora\obj\Debug\multiplicadora.csproj.AssemblyReference.cache
+C:\Users\David S\Desktop\multiplicadora\obj\Debug\multiplicadora.csproj.CoreCompileInputs.cache
+C:\Users\David S\Desktop\multiplicadora\obj\Debug\multiplicadora.exe
+C:\Users\David S\Desktop\multiplicadora\obj\Debug\multiplicadora.pdb

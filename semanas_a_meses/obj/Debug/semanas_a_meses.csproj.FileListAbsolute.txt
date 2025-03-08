@@ -1,0 +1,7 @@
+C:\Users\David S\Desktop\semanas_a_meses\bin\Debug\semanas_a_meses.exe.config
+C:\Users\David S\Desktop\semanas_a_meses\bin\Debug\semanas_a_meses.exe
+C:\Users\David S\Desktop\semanas_a_meses\bin\Debug\semanas_a_meses.pdb
+C:\Users\David S\Desktop\semanas_a_meses\obj\Debug\semanas_a_meses.csproj.AssemblyReference.cache
+C:\Users\David S\Desktop\semanas_a_meses\obj\Debug\semanas_a_meses.csproj.CoreCompileInputs.cache
+C:\Users\David S\Desktop\semanas_a_meses\obj\Debug\semanas_a_meses.exe
+C:\Users\David S\Desktop\semanas_a_meses\obj\Debug\semanas_a_meses.pdb

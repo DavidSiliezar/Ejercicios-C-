@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicadora", "multiplicadora.csproj", "{19D46ADA-FA3A-4DE2-8606-7DE338A0DD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D46ADA-FA3A-4DE2-8606-7DE338A0DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D46ADA-FA3A-4DE2-8606-7DE338A0DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D46ADA-FA3A-4DE2-8606-7DE338A0DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D46ADA-FA3A-4DE2-8606-7DE338A0DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C1B4A6-5EC6-48B3-A6A9-01DE2B4A7D21}
+	EndGlobalSection
+EndGlobal

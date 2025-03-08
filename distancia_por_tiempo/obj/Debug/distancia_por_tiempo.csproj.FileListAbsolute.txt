@@ -1,0 +1,7 @@
+C:\Users\David S\Desktop\distancia_por_tiempo\bin\Debug\distancia_por_tiempo.exe.config
+C:\Users\David S\Desktop\distancia_por_tiempo\bin\Debug\distancia_por_tiempo.exe
+C:\Users\David S\Desktop\distancia_por_tiempo\bin\Debug\distancia_por_tiempo.pdb
+C:\Users\David S\Desktop\distancia_por_tiempo\obj\Debug\distancia_por_tiempo.csproj.AssemblyReference.cache
+C:\Users\David S\Desktop\distancia_por_tiempo\obj\Debug\distancia_por_tiempo.csproj.CoreCompileInputs.cache
+C:\Users\David S\Desktop\distancia_por_tiempo\obj\Debug\distancia_por_tiempo.exe
+C:\Users\David S\Desktop\distancia_por_tiempo\obj\Debug\distancia_por_tiempo.pdb
